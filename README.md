@@ -10,3 +10,6 @@ Main Parts :
     - Main 
     - About Me 
     - Projects 
+
+
+All the copyrights for the used resources in this projects are reserved to its owners .
