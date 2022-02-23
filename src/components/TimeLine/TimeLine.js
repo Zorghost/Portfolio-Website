@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am 23 years old coming from Tunisia . Currently trying to master the art of cybersecurity 
+      I am 23 years old coming from Tunisia . Currently trying to master the art of cybersecurity and the meantime learning game developement. I am lacking experience but I compensate with hard work and dedication .
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
