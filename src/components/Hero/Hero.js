@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        Hello ! I am Rayen , a student in HTW Berlin . Currently pursuing a Bachelor in IngenieurInformatik . In this Website you can find all the necessary information about me !
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
